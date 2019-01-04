@@ -1,0 +1,17 @@
+General Class Ham Radio Test
+Binary
+Which of the following is an advantage of / using the binary system when processing / digital signals?
+A. The binary number system is most accurate
+B. Binary numbers are more compatible with analog circuitry
+C. Binary "ones" and "zeros" are easy to represent by an "on" or "off" state
+D. All of these choices are correct
+c
+Binary code with its simple system of combinations / of 0 and 1 is an ideal way to digitally express circuits / as "all the way on" or "all the way off." / It is also perfect for logic statements / such as "Yes", "No" or "True", "False."
+Frequencies
+Which of the following frequencies is in the / General Class portion of the 40-meter band?
+A. 40.200 MHz
+B. 7.250 MHz
+C. 40.500 MHz
+D. 7.500 MHz
+b
+In the 40 meter band the following ranges are available to / holders of a General Class licence: / 7.025 - 7.125 MHz (CW, RTTY, data) / 7.175 - 7.300 MHz (CW, phone, image)
